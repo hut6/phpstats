@@ -3,7 +3,6 @@
     "type": "library",
     "description": "Statistics library",
     "keywords": ["stats","statistics"],
-    "homepage": "http://mcordingley.github.com/PHPStats",
     "license": "LGPL",
     "authors": [
         {
