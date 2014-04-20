@@ -6,7 +6,7 @@ PHPStats Statistical Library
 This library was written at a time before Composer had really started to take off. As such, it is monolithic. It was also written at a time when I was a worse programmer, so it has some jankiness too. :) I am currently in the process of rewriting a more modern and maintainable set of PHP code to replace this. If you're interested in helping, please message me with details about what your interests and relative skills are. Until the replacement is ready, this code will remain on GitHub, but will also be effectively unmaintained. Apologies for the inconvenience.
 
 So far, this library has been broken into these components:
-- [LinearAlgebra](https://github.com/mcordingley/LinearAlgebra).
+- [LinearAlgebra](https://github.com/mcordingley/LinearAlgebra)
 - [Scientific](https://github.com/mcordingley/Scientific)
 
 **Introduction to PHPStats**
