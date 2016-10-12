@@ -1,5 +1,5 @@
 {
-    "name": "hut6/PHPStats",
+    "name": "hut6/phpstats",
     "type": "library",
     "description": "Statistics library",
     "keywords": ["stats","statistics"],
@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "Michael Cordingley",
-            "email": "Michael.Cordingley@gmail.com",
+            "email": "support@hutsix.com.au",
             "homepage": "",
             "role": "Developer"
         }
